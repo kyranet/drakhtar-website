@@ -17,7 +17,7 @@
 
 		<h1 class="title">Equipo</h1>
 		<TeamMember imageSRC="Members/Alejandro.jpg" name="Alejandro Plázer Arnaz"
-			description="TBD."/>
+			description="Aspirante a desarrollador y a llamarse Rodrigo. El sonido es irrelevante en el juego."/>
 		<TeamMember imageSRC="Members/Alvaro.jpg" name="Álvaro Carrasco Jurado"
 			description="TBD."/>
 		<TeamMember imageSRC="Members/Antonio.jpg" name="Antonio Román Cerezo"
