@@ -4,7 +4,7 @@
 			<article class="media">
 				<figure class="media-left">
 					<p class="image is-128x128">
-						<img class="is-rounded" :src="imageSRC" :alt="imageSRC">
+						<img class="is-rounded" :src="imageSRC" :alt="name">
 					</p>
 				</figure>
 				<div class="media-content">
