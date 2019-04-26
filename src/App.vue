@@ -29,7 +29,7 @@
 		<TeamMember imageSRC="Members/Gonzalo.jpg" name="Gonzalo Pérez Martín"
 			description="Acerca de mí tengo el ordenador, el monitor y el ratón. Desarrollador en proceso y como parece personaje del GTA 6."/>
 		<TeamMember imageSRC="Members/Javi.jpg" name="Javier Camacho Carrasco"
-			description="TBD."/>
+			description="Aficionado a los juegos de estrategia, como los de conseguir su atención."/>
 		<TeamMember imageSRC="Members/Miguel.jpg" name="Miguel Zhefan Ye Ye"
 			description="Amante de una buena narrativa, el sonido hace maravillas aunque pocos lo sepan. Also f*** battle royales."/>
 		<TeamMember imageSRC="Members/Omar.jpg" name="Omar Naranjo Caprachi"
