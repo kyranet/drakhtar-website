@@ -12,14 +12,14 @@
 		</section>
 
 		<Story />
-		<Trailer url="https://www.youtube.com/embed/o5zS-gGveMs"/>
+		<Trailer url="https://www.youtube.com/embed/aljHRY8NswA"/>
 		<Downloads />
 
 		<h1 class="title">Equipo</h1>
 		<TeamMember imageSRC="Members/Alejandro.jpg" name="Alejandro Plázer Arnaz"
 			description="Aspirante a desarrollador y a llamarse Rodrigo. El sonido es irrelevante en el juego."/>
 		<TeamMember imageSRC="Members/Alvaro.jpg" name="Álvaro Carrasco Jurado"
-			description="TBD."/>
+			description="Estudiante de desarrollo de videojuegos y amante del pixel art, de vez en cuando colecciono monstruos de bolsillo."/>
 		<TeamMember imageSRC="Members/Antonio.jpg" name="Antonio Román Cerezo"
 			description="Amante de la música y de los videojuegos, programa más que duerme."/>
 		<TeamMember imageSRC="Members/Carlos.jpg" name="Carlos María González Martínez"
